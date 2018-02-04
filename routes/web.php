@@ -10,9 +10,22 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
+/*  static pages */
 
 Route::get('/', function () {
     return view('welcome');
+});
+Route::get('/about', function () {
+    return view('about');
+});
+Route::get('/booking', function () {
+    return view('booking');
+});
+Route::get('/services', function () {
+    return view('services');
+});
+Route::get('/contact', function () {
+    return view('contact');
 });
 
 Auth::routes();

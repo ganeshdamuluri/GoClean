@@ -5,35 +5,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
      
-
-				<title>MR.Car Clean</title>
-				<meta name="keywords" content="" />
-				<meta name="description" content="" />		
-
-				<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-				<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
-
-				<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700italic,700,900&amp;subset=latin,latin-ext">
-				<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=PT+Serif:700italic,700,400italic&amp;subset=latin,cyrillic-ext,latin-ext,cyrillic">
-				
-				<link rel="stylesheet" type="text/css" href="../../assets/style/jquery.qtip.css"/>
-				<link rel="stylesheet" type="text/css" href="../../assets/style/jquery-ui.min.css"/>
-				<link rel="stylesheet" type="text/css" href="../../assets/style/superfish.css"/>
-				<link rel="stylesheet" type="text/css" href="../../assets/style/flexnav.css"/>
-				<link rel="stylesheet" type="text/css" href="../../assets/style/DateTimePicker.min.css"/>
-				<link rel="stylesheet" type="text/css" href="../../assets/style/fancybox/jquery.fancybox.css"/> 
-				<link rel="stylesheet" type="text/css" href="../../assets/style/fancybox/helpers/jquery.fancybox-buttons.css"/>
-				<link rel="stylesheet" type="text/css" href="../../assets/style/revolution/layers.css"/> 
-				<link rel="stylesheet" type="text/css" href="../../assets/style/revolution/settings.css"/> 
-				<link rel="stylesheet" type="text/css" href="../../assets/style/revolution/navigation.css"/> 
-				<link rel="stylesheet" type="text/css" href="../../assets/style/base.css"/> 
-				<link rel="stylesheet" type="text/css" href="../../assets/style/responsive.css"/> 
-				
-				<script type="text/javascript" src="../../assets/script/jquery.min.js"></script>
-
-			
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
+
+    <title>{{ config('app.name', 'Mrcar Clean') }}</title>
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
