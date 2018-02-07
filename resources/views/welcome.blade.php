@@ -5,30 +5,30 @@
 
 			<head>
 
-				<title>Auto Spa - Car Wash Auto Detail Template</title>
+				<title>Mr. Car Clean</title>
 				<meta name="keywords" content="" />
-				<meta name="description" content="" />		
+				<meta name="description" content="" />
 
 				<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
 				<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 
 				<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700italic,700,900&amp;subset=latin,latin-ext">
 				<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=PT+Serif:700italic,700,400italic&amp;subset=latin,cyrillic-ext,latin-ext,cyrillic">
-				
-				<link rel="stylesheet" type="text/css" href="../../style/jquery.qtip.css"/>
-				<link rel="stylesheet" type="text/css" href="../../style/jquery-ui.min.css"/>
-				<link rel="stylesheet" type="text/css" href="../../style/superfish.css"/>
-				<link rel="stylesheet" type="text/css" href="../../style/flexnav.css"/>
-				<link rel="stylesheet" type="text/css" href="../../style/DateTimePicker.min.css"/>
-				<link rel="stylesheet" type="text/css" href="../../style/fancybox/jquery.fancybox.css"/> 
-				<link rel="stylesheet" type="text/css" href="../../style/fancybox/helpers/jquery.fancybox-buttons.css"/>
-				<link rel="stylesheet" type="text/css" href="../../style/revolution/layers.css"/> 
-				<link rel="stylesheet" type="text/css" href="../../style/revolution/settings.css"/> 
-				<link rel="stylesheet" type="text/css" href="../../style/revolution/navigation.css"/> 
-				<link rel="stylesheet" type="text/css" href="../../style/base.css"/> 
-				<link rel="stylesheet" type="text/css" href="../../style/responsive.css"/> 
-				
-				<script type="text/javascript" src="../../script/jquery.min.js"></script>
+
+				<link rel="stylesheet" type="text/css" href="../../assets/style/jquery.qtip.css"/>
+				<link rel="stylesheet" type="text/css" href="../../assets/style/jquery-ui.min.css"/>
+				<link rel="stylesheet" type="text/css" href="../../assets/style/superfish.css"/>
+				<link rel="stylesheet" type="text/css" href="../../assets/style/flexnav.css"/>
+				<link rel="stylesheet" type="text/css" href="../../assets/style/DateTimePicker.min.css"/>
+				<link rel="stylesheet" type="text/css" href="../../assets/style/fancybox/jquery.fancybox.css"/>
+				<link rel="stylesheet" type="text/css" href="../../assets/style/fancybox/helpers/jquery.fancybox-buttons.css"/>
+				<link rel="stylesheet" type="text/css" href="../../assets/style/revolution/layers.css"/>
+				<link rel="stylesheet" type="text/css" href="../../assets/style/revolution/settings.css"/>
+				<link rel="stylesheet" type="text/css" href="../../assets/style/revolution/navigation.css"/>
+				<link rel="stylesheet" type="text/css" href="../../assets/style/base.css"/>
+				<link rel="stylesheet" type="text/css" href="../../assets/style/responsive.css"/>
+
+				<script type="text/javascript" src="../../assets/script/jquery.min.js"></script>
 
 			</head>
 
@@ -43,113 +43,41 @@
 						<!-- Logo -->
 						<div class="template-header-top-logo">
 							<a href="index.html" title="">
-								<img src="../../media/image/logo.png" alt="" class="template-logo"/>
-								<img src="../../media/image/logo_sticky.png" alt="" class="template-logo template-logo-sticky"/>
+								<img src="../../assets/media/image/logo.png" alt="" class="template-logo"/>
+								<img src="../../assets/media/image/logo_sticky.png" alt="" class="template-logo template-logo-sticky"/>
 							</a>
 						</div>
 
 						<!-- Menu-->
 						<div class="template-header-top-menu template-main">
 							<nav>
-							
+
 								<!-- Default menu-->
 								<div class="template-component-menu-default">
 									<ul class="sf-menu">
-										<li><a href="index.html" class="template-state-selected">Home</a></li>
-										<li>
-											<a href="#.html">Pages</a>
-											<ul>
-												<li><a href="about-style-1.html">About Style 1</a></li>
-												<li><a href="about-style-2.html">About Style 2</a></li>
-												<li><a href="service-style-1.html">Services Style 1</a></li>
-												<li><a href="service-style-2.html">Services Style 2</a></li>
-												<li><a href="single-service-right-sidebar.html">Single Service</a></li>
-												<li><a href="404.html">Page 404</a></li>
-											</ul>
-										</li>
-										<li><a href="book-your-wash.html">Booking</a></li>
-										<li>
-											<a href="#.html">Services</a>
-											<ul>
-												<li><a href="service-style-1.html">Services Style 1</a></li>
-												<li><a href="service-style-2.html">Services Style 2</a></li>
-												<li><a href="single-service-right-sidebar.html">Single Service - Right Sidebar</a></li>
-												<li><a href="single-service-left-sidebar.html">Single Service - Left Sidebar</a></li>
-											</ul>										
-										</li>
-										<li>
-											<a href="#.html">Blog</a>
-											<ul>
-												<li><a href="blog-small-image-right-sidebar.html">Blog Small Image - Right Sidebar</a></li>
-												<li><a href="blog-small-image-left-sidebar.html">Blog Small Image - Left Sidebar</a></li>
-												<li><a href="blog-large-image-right-sidebar.html">Blog Large Image - Right Sidebar</a></li>
-												<li><a href="blog-large-image-left-sidebar.html">Blog Large Image - Left Sidebar</a></li>
-												<li><a href="single-post-right-sidebar.html">Single Post - Right Sidebar</a></li>
-												<li><a href="single-post-left-sidebar.html">Single Post - Left Sidebar</a></li>
-											</ul>
-										</li>
-										<li><a href="gallery.html">Gallery</a></li>
-										<li>
-											<a href="#.html">Contact</a>
-											<ul>
-												<li><a href="contact-style-1.html">Contact Style 1</a></li>
-												<li><a href="contact-style-2.html">Contact Style 2</a></li>
-											</ul>
-										</li>
+										<li><a href="" class="template-state-selected">Home</a></li>
+										<li><a href="">About Us</a></li>
+										<li><a href="">Booking</a></li>
+										<li><a href="">Services</a></li>
+										<li><a href="">Contact</a></li>
 									</ul>
 								</div>
-								
+
 							</nav>
 							<nav>
-							
+
 								<!-- Mobile menu-->
 								<div class="template-component-menu-responsive">
 									<ul class="flexnav">
 										<li><a href="#"><span class="touch-button template-icon-meta-arrow-large-tb template-component-menu-button-close"></span>&nbsp;</a></li>
 										<li><a href="index.html" class="template-state-selected">Home</a></li>
-										<li>
-											<a href="#.html">Pages</a>
-											<ul>
-												<li><a href="about-style-1.html">About Style 1</a></li>
-												<li><a href="about-style-2.html">About Style 2</a></li>
-												<li><a href="service-style-1.html">Services Style 1</a></li>
-												<li><a href="service-style-2.html">Services Style 2</a></li>
-												<li><a href="single-service-right-sidebar.html">Single Service</a></li>
-												<li><a href="404.html">Page 404</a></li>
-											</ul>
-										</li>
+										<li><a href="#.html">About Us</a></li>
 										<li><a href="book-your-wash.html">Booking</a></li>
-										<li>
-											<a href="#.html">Services</a>
-											<ul>
-												<li><a href="service-style-1.html">Services Style 1</a></li>
-												<li><a href="service-style-2.html">Services Style 2</a></li>
-												<li><a href="single-service-right-sidebar.html">Single Service - Right Sidebar</a></li>
-												<li><a href="single-service-left-sidebar.html">Single Service - Left Sidebar</a></li>
-											</ul>										
-										</li>
-										<li>
-											<a href="#.html">Blog</a>
-											<ul>
-												<li><a href="blog-small-image-right-sidebar.html">Blog Small Image - Right Sidebar</a></li>
-												<li><a href="blog-small-image-left-sidebar.html">Blog Small Image - Left Sidebar</a></li>
-												<li><a href="blog-large-image-right-sidebar.html">Blog Large Image - Right Sidebar</a></li>
-												<li><a href="blog-large-image-left-sidebar.html">Blog Large Image - Left Sidebar</a></li>
-												<li><a href="single-post-right-sidebar.html">Single Post - Right Sidebar</a></li>
-												<li><a href="single-post-left-sidebar.html">Single Post - Left Sidebar</a></li>
-											</ul>
-										</li>
-										<li><a href="gallery.html">Gallery</a></li>
-										<li>
-											<a href="#.html">Contact</a>
-											<ul>
-												<li><a href="contact-style-1.html">Contact Style 1</a></li>
-												<li><a href="contact-style-2.html">Contact Style 2</a></li>
-											</ul>
-										</li>
-									</ul>							
+										<li><a href="#.html">Services</a></li>
+										<li><a href="#.html">Contact</a></li>
+									</ul>
 								</div>
-								
+
 							</nav>
 							<script type="text/javascript">
 								jQuery(document).ready(function($)
@@ -171,22 +99,22 @@
 							</ul>
 						</div>
 
-					</div>				
-					
+					</div>
+
 					<div class="template-header-bottom">
-								
+
 						<div id="rev_slider_wrapper" class="rev_slider_wrapper fullwidthbanner-container">
-							
+
 							<div id="rev_slider" class="rev_slider fullwidthabanner" style="display:none;" data-version="5.0.7">
 								<ul>
 									<!-- Slide 1 -->
 									<li data-index="slide-1" data-transition="fade" data-slotamount="1" data-easein="default" data-easeout="default" data-masterspeed="500" data-rotate="0" data-delay="6000">
 										<!-- Main image -->
-										<img src="../../media/image/slider/slider_01.jpg" alt="slide-1" data-bgfit="cover" data-bgposition="center bottom">
+										<img src="../../assets/media/image/slider/slider_01.jpg" alt="slide-1" data-bgfit="cover" data-bgposition="center bottom">
 										<!-- Layers -->
 										<!-- Layer 01 -->
-										<div class="tp-caption tp-resizeme" 
-											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']" 
+										<div class="tp-caption tp-resizeme"
+											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']"
 											data-y="['middle','middle','middle','middle','middle']" data-voffset="['-120','-105','-91','-33','-36']"
 											data-fontsize="['17','17','17','15','14']"
 											data-fontweight="['700','700','700','700','900']"
@@ -201,13 +129,13 @@
 											data-transform_in="o:1;x:[175%];y:0px;z:0px;s:2000;e:Power4.easeInOut;"
 											data-transform_out="o:0;x:0px;y:0px;z:0px;s:1000;e:Power4.easeInOut;"
 
-											data-mask_in="x:[-100%];y:0px;s:inherit;e:inherit;" 
+											data-mask_in="x:[-100%];y:0px;s:inherit;e:inherit;"
 											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
 
 											data-start="100"
 
-											data-splitin="none" 
-											data-splitout="none" 
+											data-splitin="none"
+											data-splitout="none"
 											data-responsive_offset="on"
 											style="letter-spacing: 2px;"
 											>
@@ -216,8 +144,8 @@
 										</div>
 
 										<!-- Layer 02 -->
-										<div class="tp-caption tp-resizeme" 
-											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']" 
+										<div class="tp-caption tp-resizeme"
+											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']"
 											data-y="['middle','middle','middle','middle','middle']" data-voffset="['-41','-35','-29','17','26']"
 											data-fontsize="['62','55','43','29','22']"
 											data-fontweight="['900','900','900','700','700']"
@@ -232,13 +160,13 @@
 											data-transform_in="o:1;x:0px;y:[100%];z:0px;s:2000;e:Power4.easeInOut;"
 											data-transform_out="o:1;x:0px;y:[100%];z:0px;s:1000;e:Power4.easeInOut;"
 
-											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
-											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
+											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
 
 											data-start="1000"
 
-											data-splitin="none" 
-											data-splitout="none" 
+											data-splitin="none"
+											data-splitout="none"
 											data-responsive_offset="on"
 											style="letter-spacing: 4px;"
 											>
@@ -247,8 +175,8 @@
 										</div>
 
 										<!-- Layer 03 -->
-										<div class="tp-caption tp-resizeme" 
-											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']" 
+										<div class="tp-caption tp-resizeme"
+											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']"
 											data-y="['middle','middle','middle','middle','middle']" data-voffset="['41','35','29','60','74']"
 											data-fontsize="['62','55','43','29','22']"
 											data-fontweight="['900','900','900','700','700']"
@@ -263,13 +191,13 @@
 											data-transform_in="o:1;x:0px;y:[100%];z:0px;s:2000;e:Power4.easeInOut;"
 											data-transform_out="o:1;x:0px;y:[100%];z:0px;s:1000;e:Power4.easeInOut;"
 
-											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
-											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
+											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
 
 											data-start="1500"
 
-											data-splitin="none" 
-											data-splitout="none" 
+											data-splitin="none"
+											data-splitout="none"
 											data-responsive_offset="on"
 											style="letter-spacing: 4px;"
 											>
@@ -278,8 +206,8 @@
 										</div>
 
 										<!-- Layer 04 -->
-										<div class="tp-caption tp-resizeme" 
-											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']" 
+										<div class="tp-caption tp-resizeme"
+											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']"
 											data-y="['middle','middle','middle','middle','middle']" data-voffset="['150','137','121','142','165']"
 											data-fontsize="['15','15','15','15','15']"
 											data-fontweight="['400','400','400','400','400']"
@@ -294,13 +222,13 @@
 											data-transform_in="o:1;x:0px;y:[-100%];z:0px;s:1500;e:Power4.easeInOut;"
 											data-transform_out="o:1;x:0px;y:[100%];z:0px;s:750;e:Power4.easeInOut;"
 
-											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
 											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
 
 											data-start="2500"
 
-											data-splitin="none" 
-											data-splitout="none" 
+											data-splitin="none"
+											data-splitout="none"
 											data-responsive_offset="on"
 											>
 
@@ -311,11 +239,11 @@
 									<!-- Slide 2 -->
 									<li data-index="slide-2" data-transition="fade" data-slotamount="1" data-easein="default" data-easeout="default" data-masterspeed="500" data-rotate="0" data-delay="6000">
 										<!-- Main image -->
-										<img src="../../media/image/slider/slider_02.jpg" alt="slide-2" data-bgfit="cover" data-bgposition="center bottom">
+										<img src="../../assets/media/image/slider/slider_02.jpg" alt="slide-2" data-bgfit="cover" data-bgposition="center bottom">
 										<!-- Layers -->
 										<!-- Layer 01 -->
-										<div class="tp-caption tp-resizeme" 
-											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']" 
+										<div class="tp-caption tp-resizeme"
+											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']"
 											data-y="['middle','middle','middle','middle','middle']" data-voffset="['-120','-105','-91','-33','-36']"
 											data-fontsize="['17','17','17','15','14']"
 											data-fontweight="['700','700','700','700','900']"
@@ -330,13 +258,13 @@
 											data-transform_in="o:1;x:[175%];y:0px;z:0px;s:2000;e:Power4.easeInOut;"
 											data-transform_out="o:0;x:0px;y:0px;z:0px;s:1000;e:Power4.easeInOut;"
 
-											data-mask_in="x:[-100%];y:0px;s:inherit;e:inherit;" 
+											data-mask_in="x:[-100%];y:0px;s:inherit;e:inherit;"
 											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
 
 											data-start="100"
 
-											data-splitin="none" 
-											data-splitout="none" 
+											data-splitin="none"
+											data-splitout="none"
 											data-responsive_offset="on"
 											style="letter-spacing: 2px;"
 											>
@@ -344,8 +272,8 @@
 										</div>
 
 										<!-- Layer 02 -->
-										<div class="tp-caption tp-resizeme" 
-											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']" 
+										<div class="tp-caption tp-resizeme"
+											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']"
 											data-y="['middle','middle','middle','middle','middle']" data-voffset="['-41','-35','-29','17','26']"
 											data-fontsize="['62','55','43','29','22']"
 											data-fontweight="['900','900','900','700','700']"
@@ -360,13 +288,13 @@
 											data-transform_in="o:1;x:0px;y:[100%];z:0px;s:2000;e:Power4.easeInOut;"
 											data-transform_out="o:1;x:0px;y:[100%];z:0px;s:1000;e:Power4.easeInOut;"
 
-											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
-											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
+											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
 
 											data-start="1000"
 
-											data-splitin="none" 
-											data-splitout="none" 
+											data-splitin="none"
+											data-splitout="none"
 											data-responsive_offset="on"
 											style="letter-spacing: 4px;"
 											>
@@ -375,8 +303,8 @@
 										</div>
 
 										<!-- Layer 03 -->
-										<div class="tp-caption tp-resizeme" 
-											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']" 
+										<div class="tp-caption tp-resizeme"
+											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']"
 											data-y="['middle','middle','middle','middle','middle']" data-voffset="['41','35','29','60','74']"
 											data-fontsize="['62','55','43','29','22']"
 											data-fontweight="['900','900','900','700','700']"
@@ -391,13 +319,13 @@
 											data-transform_in="o:1;x:0px;y:[100%];z:0px;s:2000;e:Power4.easeInOut;"
 											data-transform_out="o:1;x:0px;y:[100%];z:0px;s:1000;e:Power4.easeInOut;"
 
-											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
-											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
+											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
 
 											data-start="1500"
 
-											data-splitin="none" 
-											data-splitout="none" 
+											data-splitin="none"
+											data-splitout="none"
 											data-responsive_offset="on"
 											style="letter-spacing: 4px;"
 											>
@@ -406,8 +334,8 @@
 										</div>
 
 										<!-- Layer 04 -->
-										<div class="tp-caption tp-resizeme" 
-											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']" 
+										<div class="tp-caption tp-resizeme"
+											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']"
 											data-y="['middle','middle','middle','middle','middle']" data-voffset="['150','137','121','142','165']"
 											data-fontsize="['15','15','15','15','15']"
 											data-fontweight="['400','400','400','400','400']"
@@ -422,13 +350,13 @@
 											data-transform_in="o:1;x:0px;y:[-100%];z:0px;s:1500;e:Power4.easeInOut;"
 											data-transform_out="o:1;x:0px;y:[100%];z:0px;s:750;e:Power4.easeInOut;"
 
-											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
 											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
 
 											data-start="2500"
 
-											data-splitin="none" 
-											data-splitout="none" 
+											data-splitin="none"
+											data-splitout="none"
 											data-responsive_offset="on"
 											>
 
@@ -439,11 +367,11 @@
 									<!-- Slide 3 -->
 									<li data-index="slide-3" data-transition="fade" data-slotamount="1" data-easein="default" data-easeout="default" data-masterspeed="500" data-rotate="0" data-delay="6000">
 										<!-- Main image -->
-										<img src="../../media/image/slider/slider_03.jpg" alt="slide-3" data-bgfit="cover" data-bgposition="center bottom">
+										<img src="../../assets/media/image/slider/slider_03.jpg" alt="slide-3" data-bgfit="cover" data-bgposition="center bottom">
 										<!-- Layers -->
 										<!-- Layer 01 -->
-										<div class="tp-caption tp-resizeme" 
-											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']" 
+										<div class="tp-caption tp-resizeme"
+											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']"
 											data-y="['middle','middle','middle','middle','middle']" data-voffset="['-120','-105','-91','-33','-36']"
 											data-fontsize="['17','17','17','15','14']"
 											data-fontweight="['700','700','700','700','900']"
@@ -458,13 +386,13 @@
 											data-transform_in="o:1;x:[175%];y:0px;z:0px;s:2000;e:Power4.easeInOut;"
 											data-transform_out="o:0;x:0px;y:0px;z:0px;s:1000;e:Power4.easeInOut;"
 
-											data-mask_in="x:[-100%];y:0px;s:inherit;e:inherit;" 
+											data-mask_in="x:[-100%];y:0px;s:inherit;e:inherit;"
 											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
 
 											data-start="100"
 
-											data-splitin="none" 
-											data-splitout="none" 
+											data-splitin="none"
+											data-splitout="none"
 											data-responsive_offset="on"
 											style="letter-spacing: 2px;"
 											>
@@ -473,8 +401,8 @@
 										</div>
 
 										<!-- Layer 02 -->
-										<div class="tp-caption tp-resizeme" 
-											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']" 
+										<div class="tp-caption tp-resizeme"
+											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']"
 											data-y="['middle','middle','middle','middle','middle']" data-voffset="['-41','-35','-29','17','26']"
 											data-fontsize="['62','55','43','29','22']"
 											data-fontweight="['900','900','900','700','700']"
@@ -489,13 +417,13 @@
 											data-transform_in="o:1;x:0px;y:[100%];z:0px;s:2000;e:Power4.easeInOut;"
 											data-transform_out="o:1;x:0px;y:[100%];z:0px;s:1000;e:Power4.easeInOut;"
 
-											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
-											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
+											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
 
 											data-start="1000"
 
-											data-splitin="none" 
-											data-splitout="none" 
+											data-splitin="none"
+											data-splitout="none"
 											data-responsive_offset="on"
 											style="letter-spacing: 4px;"
 											>
@@ -504,8 +432,8 @@
 										</div>
 
 										<!-- Layer 03 -->
-										<div class="tp-caption tp-resizeme" 
-											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']" 
+										<div class="tp-caption tp-resizeme"
+											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']"
 											data-y="['middle','middle','middle','middle','middle']" data-voffset="['41','35','29','60','74']"
 											data-fontsize="['62','55','43','29','22']"
 											data-fontweight="['900','900','900','700','700']"
@@ -520,13 +448,13 @@
 											data-transform_in="o:1;x:0px;y:[100%];z:0px;s:2000;e:Power4.easeInOut;"
 											data-transform_out="o:1;x:0px;y:[100%];z:0px;s:1000;e:Power4.easeInOut;"
 
-											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
-											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;" 
+											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
+											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
 
 											data-start="1500"
 
-											data-splitin="none" 
-											data-splitout="none" 
+											data-splitin="none"
+											data-splitout="none"
 											data-responsive_offset="on"
 											style="letter-spacing: 4px;"
 											>
@@ -535,8 +463,8 @@
 										</div>
 
 										<!-- Layer 04 -->
-										<div class="tp-caption tp-resizeme" 
-											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']" 
+										<div class="tp-caption tp-resizeme"
+											data-x="['center','center','center','center','center']" data-hoffset="['0','0','0','0','0']"
 											data-y="['middle','middle','middle','middle','middle']" data-voffset="['150','137','121','142','165']"
 											data-fontsize="['15','15','15','15','15']"
 											data-fontweight="['400','400','400','400','400']"
@@ -551,13 +479,13 @@
 											data-transform_in="o:1;x:0px;y:[-100%];z:0px;s:1500;e:Power4.easeInOut;"
 											data-transform_out="o:1;x:0px;y:[100%];z:0px;s:750;e:Power4.easeInOut;"
 
-											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" 
+											data-mask_in="x:0px;y:0px;s:inherit;e:inherit;"
 											data-mask_out="x:inherit;y:inherit;s:inherit;e:inherit;"
 
 											data-start="2500"
 
-											data-splitin="none" 
-											data-splitout="none" 
+											data-splitin="none"
+											data-splitout="none"
 											data-responsive_offset="on"
 											>
 
@@ -571,7 +499,7 @@
 
 						<!-- Slider JS -->
 						<script type="text/javascript">
-						var tpj=jQuery;			
+						var tpj=jQuery;
 							var revapi4;
 							tpj(document).ready(function() {
 								if(tpj("#rev_slider").revolution == undefined){
@@ -659,10 +587,10 @@
 								});
 								}
 							}); /*ready*/
-						</script>					
-					
+						</script>
+
 					</div>
-					
+
 				</div>
 
 				<!-- Content -->
@@ -670,40 +598,40 @@
 
 					<!-- Section -->
 					<div class="template-section template-section-padding-1 template-clear-fix template-main">
-						
+
 						<!-- Header + subheader -->
 						<div class="template-component-header-subheader">
 							<h2>Who Is Autospa</h2>
 							<div></div>
 							<span>Car wash &amp; detailling service</span>
-						</div>	
-						
+						</div>
+
 						<!-- Layout 33x66% -->
 						<div class="template-layout-33x66 template-clear-fix">
-							
+
 							<!-- Left column -->
 							<div class="template-layout-column-left">
-								<img src="../../media/image/sample/460x678/image_01.jpg" alt=""/>
+								<img src="../../assets/media/image/sample/460x678/image_01.jpg" alt=""/>
 							</div>
-							
+
 							<!-- Right column -->
 							<div class="template-layout-column-right">
-								
+
 								<!-- Text -->
 								<p class="template-padding-reset">
-									Autospa Hand Wash is an eco-friendly, hand car wash and detailing service based in Portland. 
-									Our company was founded back in 2005 by a team of experts with more then 10 years of professional car wash experience. 
-									We operate three car washes throught Portland area. Our goal is to provide our customers with the friendliest, most convenient 
-									hand car wash experience possible. We use the most modern and up-to-date water reclamation modules as a part of our car wash systems. 
+									Autospa Hand Wash is an eco-friendly, hand car wash and detailing service based in Portland.
+									Our company was founded back in 2005 by a team of experts with more then 10 years of professional car wash experience.
+									We operate three car washes throught Portland area. Our goal is to provide our customers with the friendliest, most convenient
+									hand car wash experience possible. We use the most modern and up-to-date water reclamation modules as a part of our car wash systems.
 									Our products are all biodegradable and eco-friendly.
 								</p>
-																
+
 								<!-- Feature list -->
 								<div class="template-component-feature-list template-component-feature-list-position-top template-clear-fix">
-									
+
 									<!-- Layout 50x50% -->
 									<ul class="template-layout-50x50 template-clear-fix">
-										
+
 										<!-- Left column -->
 										<li class="template-layout-column-left template-margin-bottom-reset">
 											<div class="template-component-space template-component-space-2"></div>
@@ -717,7 +645,7 @@
 												<li><span class="template-icon-meta-check"></span>Trained and skilled car wash crew members</li>
 											</ul>
 										</li>
-										
+
 										<!-- Right column -->
 										<li class="template-layout-column-right template-margin-bottom-reset">
 											<div class="template-component-space template-component-space-2"></div>
@@ -729,22 +657,22 @@
 												<li><span class="template-icon-meta-check"></span>Book an appointment online under 3 minutes</li>
 												<li><span class="template-icon-meta-check"></span>Our tool free number will be answered</li>
 												<li><span class="template-icon-meta-check"></span>You can pay online for your appointment</li>
-											</ul>											
+											</ul>
 										</li>
-										
+
 									</ul>
-									
+
 								</div>
-								
+
 							</div>
-								
+
 						</div>
-						
+
 					</div>
-					
+
 					<!-- Section -->
 					<div class="template-section template-section-padding-reset template-clear-fix template-background-color-1">
-						
+
 						<!-- Call to action -->
 						<div class="template-component-call-to-action">
 							<div class="template-main">
@@ -752,12 +680,12 @@
 								<a href="book-your-wash.html" class="template-component-button">Book Appointment</a>
 							</div>
 						</div>
-						
+
 					</div>
-					
+
 					<!-- Section -->
 					<div class="template-section template-background-image template-background-image-5 template-background-image-parallax template-color-white template-clear-fix">
-						
+
 						<!-- Mian -->
 						<div class="template-main">
 
@@ -766,70 +694,70 @@
 								<h2>Our Process</h2>
 								<div></div>
 								<span>We know your time is valuable</span>
-							</div>	
+							</div>
 
-							<!-- Space -->							
+							<!-- Space -->
 							<div class="template-component-space template-component-space-1"></div>
-							
-							<!-- Process list -->							
+
+							<!-- Process list -->
 							<div class="template-component-process-list template-clear-fix">
-								
+
 								<!-- Layout 25x25x25x25% -->
 								<ul class="template-layout-25x25x25x25 template-clear-fix template-layout-margin-reset">
-									
+
 									<!-- Left column -->
 									<li class="template-layout-column-left">
 										<span class="template-icon-feature-check"></span>
 										<h5>1. Booking</h5>
 										<span class="template-icon-meta-arrow-large-rl"></span>
 									</li>
-									
+
 									<!-- Center left column -->
 									<li class="template-layout-column-center-left">
 										<span class="template-icon-feature-car-check"></span>
 										<h5>2. Inspection</h5>
 										<span class="template-icon-meta-arrow-large-rl"></span>
 									</li>
-									
+
 									<!-- Center right column -->
 									<li class="template-layout-column-center-right">
 										<span class="template-icon-feature-payment"></span>
 										<h5>3. Valuation</h5>
 										<span class="template-icon-meta-arrow-large-rl"></span>
 									</li>
-									
+
 									<!-- Right column -->
 									<li class="template-layout-column-right">
 										<span class="template-icon-feature-vacuum-cleaner"></span>
 										<h5>4. Completion</h5>
 									</li>
-									
+
 								</ul>
-								
+
 							</div>
-							
+
 						</div>
-							
-						
+
+
 					</div>
-					
+
 					<!-- Section -->
 					<div class="template-section template-section-padding-1 template-clear-fix template-main">
-						
+
 						<!-- Header + subheader -->
 						<div class="template-component-header-subheader">
 							<h2>Wash Packages</h2>
 							<div></div>
 							<span>Which wash is the best for your vehicle?</span>
-						</div>	
-						
+						</div>
+
 						<!-- Booking -->
 						<div class="template-component-booking" id="template-booking">
 
 							<form>
 
 								<ul>
-									
+
 									<li>
 
 										<!-- Content -->
@@ -844,7 +772,7 @@
 													<div>
 
 														<!-- Icon -->
-														<div class="template-icon-vehicle-small-car"></div>					
+														<div class="template-icon-vehicle-small-car"></div>
 
 														<!-- Name -->
 														<div>Regular Size Car</div>
@@ -856,7 +784,7 @@
 												<!-- Vehicle -->
 												<li data-id="medium-size-car">
 													<div>
-														<div class="template-icon-vehicle-car-mid-size"></div>					
+														<div class="template-icon-vehicle-car-mid-size"></div>
 														<div>Medium Size Car</div>
 													</div>
 												</li>
@@ -864,7 +792,7 @@
 												<!-- Vehicle -->
 												<li data-id="compact-suv">
 													<div>
-														<div class="template-icon-vehicle-suv"></div>					
+														<div class="template-icon-vehicle-suv"></div>
 														<div>Compact SUV</div>
 													</div>
 												</li>
@@ -872,7 +800,7 @@
 												<!-- Vehicle -->
 												<li data-id="minivan">
 													<div>
-														<div class="template-icon-vehicle-minivan"></div>					
+														<div class="template-icon-vehicle-minivan"></div>
 														<div>Minivan</div>
 													</div>
 												</li>
@@ -880,7 +808,7 @@
 												<!-- Vehicle -->
 												<li data-id="pickup-truck">
 													<div>
-														<div class="template-icon-vehicle-pickup"></div>					
+														<div class="template-icon-vehicle-pickup"></div>
 														<div>Pickup Truck</div>
 													</div>
 												</li>
@@ -888,7 +816,7 @@
 												<!-- Vehicle -->
 												<li data-id="cargo-truck">
 													<div>
-														<div class="template-icon-vehicle-truck-mid-size"></div>					
+														<div class="template-icon-vehicle-truck-mid-size"></div>
 														<div>Cargo Truck</div>
 													</div>
 												</li>
@@ -897,7 +825,7 @@
 
 										</div>
 
-									</li>											
+									</li>
 
 									<li>
 
@@ -1155,28 +1083,28 @@
 
 											</ul>
 
-										</div>	
+										</div>
 
 									</li>
-														
+
 								</ul>
 
 							</form>
 
 						</div>
-						
+
 						<script type="text/javascript">
 							jQuery(document).ready(function($)
 							{
 								$('#template-booking').booking();
 							});
 						</script>
-						
+
 					</div>
-					
+
 					<!-- Section -->
 					<div class="template-section template-section-padding-reset template-clear-fix">
-						
+
 						<!-- Flex layout 50x50% -->
 						<div class="template-layout-flex template-background-color-1 template-clear-fix">
 
@@ -1185,61 +1113,61 @@
 
 							<!-- Right column -->
 							<div class="template-section-padding-1">
-								
+
 								<!-- Features list -->
 								<div class="template-component-feature-list template-component-feature-list-position-top">
-									
+
 									<!-- Layout 50x50% -->
 									<ul class="template-layout-50x50 template-clear-fix">
-										
+
 										<!-- Left column -->
 										<li class="template-layout-column-left">
 											<span class="template-icon-feature-location-map"></span>
 											<h5>Convenience</h5>
 											<p>We are dedicated to providing quality service, customer satisfaction at a great value in multiple locations offering convenient hours.</p>
 										</li>
-										
+
 										<!-- Right column -->
 										<li class="template-layout-column-right">
 											<span class="template-icon-feature-eco-nature"></span>
 											<h5>Organic products</h5>
-											<p>Our products are eco-friendly and interior products are all organic. We use less than a gallon of water with absolutely zero-waste.</p>											
+											<p>Our products are eco-friendly and interior products are all organic. We use less than a gallon of water with absolutely zero-waste.</p>
 										</li>
-										
+
 										<!-- Left column -->
 										<li class="template-layout-column-left">
 											<span class="template-icon-feature-team"></span>
 											<h5>Experienced Team</h5>
-											<p>Our crew members are all trained and skilled and fully equiped with equipment and supplies needed that we can deliver the best results.</p>											
+											<p>Our crew members are all trained and skilled and fully equiped with equipment and supplies needed that we can deliver the best results.</p>
 										</li>
-										
+
 										<!-- Right column -->
 										<li class="template-layout-column-right">
 											<span class="template-icon-feature-spray-bottle"></span>
 											<h5>Great Value</h5>
-											<p>We offer multiple services at a great value to meet your needs. We offer a premium service while saving your time and money.</p>											
+											<p>We offer multiple services at a great value to meet your needs. We offer a premium service while saving your time and money.</p>
 										</li>
-										
+
 									</ul>
-									
+
 								</div>
 
 							</div>
 
 						</div>
-						
+
 					</div>
-					
+
 					<!-- Section -->
 					<div class="template-section template-clear-fix template-main">
-						
+
 						<!-- Header + subheader -->
 						<div class="template-component-header-subheader">
 							<h2>Latest Projects</h2>
 							<div></div>
 							<span>Car wash gallery</span>
-						</div>	
-						
+						</div>
+
 						<!-- Gallery -->
 						<div class="template-component-gallery">
 
@@ -1262,10 +1190,10 @@
 									<div class="template-component-image template-component-image-preloader">
 
 										<!-- Orginal image -->
-										<a href="../../media/image/sample/460x678/image_01.jpg" class="template-fancybox" data-fancybox-group="gallery-1">
+										<a href="../../assets/media/image/sample/460x678/image_01.jpg" class="template-fancybox" data-fancybox-group="gallery-1">
 
 											<!-- Thumbnail -->
-											<img src="../../media/image/sample/460x678/image_01.jpg" alt=""/>
+											<img src="../../assets/media/image/sample/460x678/image_01.jpg" alt=""/>
 
 											<!-- Image hover -->
 											<span class="template-component-image-hover">
@@ -1282,8 +1210,8 @@
 
 										<!-- Fancybox description -->
 										<div class="template-component-image-description">
-											Suspendisse sagittis placerat diam sit amet viverra neque elementum et. Donec lacinia in tortor ac tristique. 
-											In dui leo bibendum et dignissim non laoreet ut nulla. Nunc vulputate odio a dapibus feugiat tortor velit iaculis libero 
+											Suspendisse sagittis placerat diam sit amet viverra neque elementum et. Donec lacinia in tortor ac tristique.
+											In dui leo bibendum et dignissim non laoreet ut nulla. Nunc vulputate odio a dapibus feugiat tortor velit iaculis libero
 											sit amet euismod lacus elit et enim. Aliquam semper nunc sed rhoncus interdum.
 										</div>
 
@@ -1294,8 +1222,8 @@
 								<!-- Image -->
 								<li class="template-filter-auto-detail template-filter-triple-foam">
 									<div class="template-component-image template-component-image-preloader">
-										<a href="media/image/sample/460x306/image_01.jpg" class="template-fancybox" data-fancybox-group="gallery-1">
-											<img src="media/image/sample/460x306/image_01.jpg" alt=""/>
+										<a href="../../assets/media/image/sample/460x306/image_01.jpg" class="template-fancybox" data-fancybox-group="gallery-1">
+											<img src="../../assets/media/image/sample/460x306/image_01.jpg" alt=""/>
 											<span class="template-component-image-hover">
 												<span>
 													<span>
@@ -1307,8 +1235,8 @@
 											</span>
 										</a>
 										<div class="template-component-image-description">
-											Nam mollis libero at mollis lacinia. Praesent nunc turpis mollis in congue a lacinia at nisl. 
-											Quisque tincidunt vehicula dolor a eleifend. In nec tellus eu nisi fringilla molestie ac eu enim. 
+											Nam mollis libero at mollis lacinia. Praesent nunc turpis mollis in congue a lacinia at nisl.
+											Quisque tincidunt vehicula dolor a eleifend. In nec tellus eu nisi fringilla molestie ac eu enim.
 											Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque gravida nibh a lobortis blandit risus turpis auctor ligula.
 										</div>
 									</div>
@@ -1317,8 +1245,8 @@
 								<!-- Image -->
 								<li class="template-filter-hand-wash template-filter-auto-detail template-filter-hand-wax">
 									<div class="template-component-image template-component-image-preloader">
-										<a href="../../media/image/sample/460x306/image_02.jpg" class="template-fancybox" data-fancybox-group="gallery-1">
-											<img src="../../media/image/sample/460x306/image_02.jpg" alt=""/>
+										<a href="../../assets/media/image/sample/460x306/image_02.jpg" class="template-fancybox" data-fancybox-group="gallery-1">
+											<img src="../../assets/media/image/sample/460x306/image_02.jpg" alt=""/>
 											<span class="template-component-image-hover">
 												<span>
 													<span>
@@ -1330,8 +1258,8 @@
 											</span>
 										</a>
 										<div class="template-component-image-description">
-											Morbi est augue porta in consequat nec pretium eget nunc. In ullamcorper ante quis pharetra finibus. 
-											Phasellus tincidunt augue sed velit molestie a pretium neque accumsan. Nam id ligula arcu. Proin non tempus eros. 
+											Morbi est augue porta in consequat nec pretium eget nunc. In ullamcorper ante quis pharetra finibus.
+											Phasellus tincidunt augue sed velit molestie a pretium neque accumsan. Nam id ligula arcu. Proin non tempus eros.
 											Pellentesque congue libero eget tristique consectetur.
 										</div>
 									</div>
@@ -1340,8 +1268,8 @@
 								<!-- Image -->
 								<li class="template-component-gallery-image-list-width-2 template-filter-hand-wash template-filter-triple-foam">
 									<div class="template-component-image template-component-image-preloader">
-										<a href="../../media/image/sample/760x506/image_06.jpg" class="template-fancybox" data-fancybox-group="gallery-1">
-											<img src="../../media/image/sample/760x506/image_06.jpg" alt=""/>
+										<a href="../../assets/media/image/sample/760x506/image_06.jpg" class="template-fancybox" data-fancybox-group="gallery-1">
+											<img src="../../assets/media/image/sample/760x506/image_06.jpg" alt=""/>
 											<span class="template-component-image-hover">
 												<span>
 													<span>
@@ -1351,10 +1279,10 @@
 													</span>
 												</span>
 											</span>
-										</a>	
+										</a>
 										<div class="template-component-image-description">
-											Donec eget massa vitae metus maximus tempor. Vivamus maximus mattis ultricies. Sed viverra vitae metus in ornare. 
-											Ut lacus massa finibus quis luctus quis faucibus sit amet risus. Ut elit neque pulvinar sit amet ipsum eget feugiat consequat 
+											Donec eget massa vitae metus maximus tempor. Vivamus maximus mattis ultricies. Sed viverra vitae metus in ornare.
+											Ut lacus massa finibus quis luctus quis faucibus sit amet risus. Ut elit neque pulvinar sit amet ipsum eget feugiat consequat
 											magna. Quisque fringilla ex sit amet rutrum varius velit arcu tempus tellus vitae euismod felis orci vel turpis.
 										</div>
 									</div>
@@ -1363,8 +1291,8 @@
 								<!-- Image -->
 								<li class="template-filter-triple-foam template-filter-hand-polish">
 									<div class="template-component-image template-component-image-preloader">
-										<a href="../../media/image/sample/460x678/image_03.jpg" class="template-fancybox" data-fancybox-group="gallery-1">
-											<img src="../../media/image/sample/460x678/image_03.jpg" alt=""/>
+										<a href="../../assets/media/image/sample/460x678/image_03.jpg" class="template-fancybox" data-fancybox-group="gallery-1">
+											<img src="../../assets/media/image/sample/460x678/image_03.jpg" alt=""/>
 											<span class="template-component-image-hover">
 												<span>
 													<span>
@@ -1376,8 +1304,8 @@
 											</span>
 										</a>
 										<div class="template-component-image-description">
-											Phasellus non commodo dolor. In iaculis eleifend ipsum id lacinia turpis sagittis ut. Ut id vestibulum mauris 
-											ac laoreet augue. Nullam malesuada tempor finibus. Aliquam viverra augue ac tincidunt lacinia. Interdum et malesuada fames 
+											Phasellus non commodo dolor. In iaculis eleifend ipsum id lacinia turpis sagittis ut. Ut id vestibulum mauris
+											ac laoreet augue. Nullam malesuada tempor finibus. Aliquam viverra augue ac tincidunt lacinia. Interdum et malesuada fames
 											ac ante ipsum primis in faucibus. Nullam ultricies viverra nulla ac egestas.
 										</div>
 									</div>
@@ -1386,8 +1314,8 @@
 								<!-- Image -->
 								<li class="template-filter-auto-detail template-filter-hand-polish">
 									<div class="template-component-image template-component-image-preloader">
-										<a href="media/image/sample/460x306/image_04.jpg" class="template-fancybox" data-fancybox-group="gallery-1">
-											<img src="media/image/sample/460x306/image_04.jpg" alt=""/>
+										<a href="../../assets/media/image/sample/460x306/image_04.jpg" class="template-fancybox" data-fancybox-group="gallery-1">
+											<img src="../../assets/media/image/sample/460x306/image_04.jpg" alt=""/>
 											<span class="template-component-image-hover">
 												<span>
 													<span>
@@ -1399,8 +1327,8 @@
 											</span>
 										</a>
 										<div class="template-component-image-description">
-											Praesent efficitur tortor sit amet nulla malesuada id venenatis velit sagittis. Aliquam blandit ipsum quis iaculis feugiat. 
-											Sed eros lacus aliquet ut libero et faucibus ultricies nisi. Donec hendrerit dignissim ante vel feugiat augue tempor non. 
+											Praesent efficitur tortor sit amet nulla malesuada id venenatis velit sagittis. Aliquam blandit ipsum quis iaculis feugiat.
+											Sed eros lacus aliquet ut libero et faucibus ultricies nisi. Donec hendrerit dignissim ante vel feugiat augue tempor non.
 											Nunc auctor quam sollicitudin est blandit consectetur. Phasellus vitae suscipit purus.
 										</div>
 									</div>
@@ -1409,8 +1337,8 @@
 								<!-- Image -->
 								<li class="template-filter-triple-foam template-filter-hand-polish template-filter-hand-wax">
 									<div class="template-component-image template-component-image-preloader">
-										<a href="media/image/sample/460x306/image_10.jpg" class="template-fancybox" data-fancybox-group="gallery-1">
-											<img src="media/image/sample/460x306/image_10.jpg" alt=""/>
+										<a href="../../assets/media/image/sample/460x306/image_10.jpg" class="template-fancybox" data-fancybox-group="gallery-1">
+											<img src="../../assets/media/image/sample/460x306/image_10.jpg" alt=""/>
 											<span class="template-component-image-hover">
 												<span>
 													<span>
@@ -1422,8 +1350,8 @@
 											</span>
 										</a>
 										<div class="template-component-image-description">
-											Nam et ornare mauris. Nam fringilla eu metus ac vehicula. Mauris dapibus hendrerit ante imperdiet varius orci. 
-											Fusce rutrum lobortis erat. Nunc vehicula vehicula risus sit amet cursus. Curabitur non congue magna vel porttitor magna. 
+											Nam et ornare mauris. Nam fringilla eu metus ac vehicula. Mauris dapibus hendrerit ante imperdiet varius orci.
+											Fusce rutrum lobortis erat. Nunc vehicula vehicula risus sit amet cursus. Curabitur non congue magna vel porttitor magna.
 											Duis interdum ligula sed lectus elementum ut interdum neque dignissim.
 										</div>
 									</div>
@@ -1431,37 +1359,37 @@
 
 							</ul>
 
-						</div>	
-						
+						</div>
+
 						<!-- Button -->
 						<div class="template-align-center">
 							<a href="gallery.html" class="template-component-button">Browse More Projects</a>
 						</div>
-						
-					</div>		
-					
+
+					</div>
+
 					<!-- Section -->
 					<div class="template-section template-section-padding-reset template-clear-fix">
-						
+
 						<!-- Flex layout 50x50% -->
 						<div class="template-layout-flex template-clear-fix template-background-color-1">
-							
+
 							<!-- Left column -->
 							<div>
-								
+
 								<!-- Header + subheader -->
 								<div class="template-component-header-subheader">
 									<h2>Testimonials</h2>
 									<div></div>
 									<span>Our customers love us</span>
-								</div>		
-								
-								<!-- Space -->		
+								</div>
+
+								<!-- Space -->
 								<div class="template-component-space template-component-space-2"></div>
-								
-								<!-- Testimonials list -->							
+
+								<!-- Testimonials list -->
 								<div class="template-component-testimonial-list template-clear-fix">
-									
+
 									<!-- Content -->
 									<ul class="template-clear-fix">
 										<li>
@@ -1480,28 +1408,28 @@
 											<span>Toyota Avensis</span>
 										</li>
 									</ul>
-									
+
 									<!-- Navigation -->
 									<div class="template-component-testimonial-list-navigation">
 										<a href="#" class="template-component-testimonial-list-navigation-left template-icon-meta-arrow-large-rl"></a>
 										<span class="template-component-testimonial-list-navigation-center template-icon-feature-testimonials"></span>
 										<a href="#" class="template-component-testimonial-list-navigation-right template-icon-meta-arrow-large-rl"></a>
 									</div>
-									
+
 								</div>
-								
+
 							</div>
-							
+
 							<!-- Right column -->
 							<div class="template-background-image template-background-image-2 template-color-white">
-							
+
 								<!-- Header + subheader -->
 								<div class="template-component-header-subheader">
 									<h2>Recent News</h2>
 									<div></div>
 									<span>Recent from the blog</span>
 								</div>
-								
+
 								<!-- Recent posts list -->
 								<ul class="template-component-recent-post">
 									<li>
@@ -1523,22 +1451,22 @@
 										</a>
 									</li>
 								</ul>
-								
+
 							</div>
-							
+
 						</div>
-						
+
 					</div>
-					
+
 					<!-- Section -->
 					<div class="template-section template-section-padding-1 template-clear-fix template-main">
-						
+
 						<!-- Features list -->
 						<div class="template-component-feature-list template-component-feature-list-position-left template-clear-fix">
-							
+
 							<!-- Layout 33x33x33% -->
 							<ul class="template-layout-33x33x33 template-clear-fix">
-								
+
 								<!-- Left column -->
 								<li class="template-layout-column-left">
 									<span class="template-icon-feature-phone-circle"></span>
@@ -1548,7 +1476,7 @@
 										(+505) 122 225 224<br/>
 									</p>
 								</li>
-								
+
 								<!-- Center column -->
 								<li class="template-layout-column-center">
 									<span class="template-icon-feature-location-map"></span>
@@ -1558,7 +1486,7 @@
 										Portland, OR 97219
 									</p>
 								</li>
-								
+
 								<!-- Right column -->
 								<li class="template-layout-column-right">
 									<span class="template-icon-feature-clock"></span>
@@ -1568,15 +1496,15 @@
 										Saturday: 8 am - 3 pm
 									</p>
 								</li>
-								
+
 							</ul>
 						</div>
-						
+
 					</div>
-					
+
 					<!-- Google Maps -->
 					<div class="template-section template-section-padding-reset template-clear-fix">
-									
+
 						<!-- Google Map -->
 						<div class="template-component-google-map">
 
@@ -1614,28 +1542,28 @@
 								});
 							});
 
-						</script>					
-					
+						</script>
+
 					</div>
-					
+
 				</div>
-				
+
 				<!-- Footer -->
 				<div class="template-footer">
-					
+
 					<div class="template-main">
-						
+
 						<!-- Footer top -->
 						<div class="template-footer-top">
-							
+
 							<!-- Layout 25x25x25x25 -->
 							<div class="template-layout-25x25x25x25 template-clear-fix">
-								
+
 								<!-- Left column -->
 								<div class="template-layout-column-left">
 									<h6>About</h6>
 									<p>Autospan Hand Wash is an eco-friendly hand car wash and detailing service based in Portland.</p>
-									<img src="media/image/logo.png" alt="" class="template-logo" />
+									<img src="../../assets/media/image/logo.png" alt="" class="template-logo" />
 								</div>
 
 								<!-- Center left column -->
@@ -1648,9 +1576,9 @@
 										<li><a href="service-style-1.html">Wheel Shine</a></li>
 										<li><a href="service-style-1.html">Interior Vacuum</a></li>
 										<li><a href="service-style-1.html">Sealer Hand Wax</a></li>
-									</ul>									
+									</ul>
 								</div>
-								
+
 								<!-- Center right column -->
 								<div class="template-layout-column-center-right">
 									<h6>Company</h6>
@@ -1663,7 +1591,7 @@
 										<li><a href="contact-style-1.html">Contact</a></li>
 									</ul>
 								</div>
-								
+
 								<!-- Right column -->
 								<div class="template-layout-column-right">
 									<h6>Newsletter</h6>
@@ -1677,14 +1605,14 @@
 										</div>
 									</form>
 								</div>
-								
+
 							</div>
-							
+
 						</div>
-						
+
 						<!-- Footer bottom -->
 						<div class="template-footer-bottom">
-							
+
 							<!-- Social icon list -->
 							<ul class="template-component-social-icon-list template-component-social-icon-list-2">
 								<li><a href="https://twitter.com/quanticalabs" class="template-icon-social-twitter" target="_blank"></a></li>
@@ -1694,14 +1622,14 @@
 								<li><a href="https://www.behance.net/quanticalabs" class="template-icon-social-behance" target="_blank"></a></li>
 								<li><a href="https://www.youtube.com/user/quanticalabs" class="template-icon-social-youtube" target="_blank"></a></li>
 							</ul>
-							
+
 							<!-- Copyright -->
 							<div class="template-footer-bottom-copyright">
 								By <a href="http://quanticalabs.com" target="_blank">QuanticaLabs</a> &copy; 2016 <a href="http://themeforest.net/user/QuanticaLabs/portfolio?ref=quanticalabs" target="_blank">Auto Spa Template</a>
 							</div>
-							
+
 						</div>
-						
+
 					</div>
 
 				</div>
@@ -1717,66 +1645,66 @@
 						</div>
 					</form>
 				</div>
-				
+
 				<!-- Go to top button -->
 				<a href="#go-to-top" class="template-component-go-to-top template-icon-meta-arrow-large-tb"></a>
-				
+
 				<!-- Wrapper for date picker -->
 				<div id="dtBox"></div>
-				
+
 				<!-- JS files -->
-				<script type="text/javascript" src="../../script/jquery-ui.min.js"></script>
-				<script type="text/javascript" src="../../script/superfish.min.js"></script>
-				<script type="text/javascript" src="../../script/jquery.easing.js"></script>
-				<script type="text/javascript" src="../../script/jquery.blockUI.js"></script>
-				<script type="text/javascript" src="../../script/jquery.qtip.min.js"></script>
-				<script type="text/javascript" src="../../script/jquery.fancybox.js"></script>
-				<script type="text/javascript" src="../../script/isotope.pkgd.min.js"></script>
-				<script type="text/javascript" src="../../script/jquery.actual.min.js"></script>
-				<script type="text/javascript" src="../../script/jquery.flexnav.min.js"></script>
-				<script type="text/javascript" src="../../script/jquery.waypoints.min.js"></script>
-				<script type="text/javascript" src="../../script/sticky.min.js"></script>
-				<script type="text/javascript" src="../../script/jquery.scrollTo.min.js"></script>
-				<script type="text/javascript" src="../../script/jquery.fancybox-media.js"></script>
-				<script type="text/javascript" src="../../script/jquery.fancybox-buttons.js"></script>
-				<script type="text/javascript" src="../../script/jquery.carouFredSel.packed.js"></script>
-				<script type="text/javascript" src="../../script/jquery.responsiveElement.js"></script>
-				<script type="text/javascript" src="../../script/jquery.touchSwipe.min.js"></script>
-				<script type="text/javascript" src="../../script/DateTimePicker.min.js"></script>
-				<script type="text/javascript" src="http://maps.google.com/maps/api/js"></script>  
-				
+				<script type="text/javascript" src="../../assets/script/jquery-ui.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/superfish.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/jquery.easing.js"></script>
+				<script type="text/javascript" src="../../assets/script/jquery.blockUI.js"></script>
+				<script type="text/javascript" src="../../assets/script/jquery.qtip.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/jquery.fancybox.js"></script>
+				<script type="text/javascript" src="../../assets/script/isotope.pkgd.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/jquery.actual.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/jquery.flexnav.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/jquery.waypoints.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/sticky.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/jquery.scrollTo.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/jquery.fancybox-media.js"></script>
+				<script type="text/javascript" src="../../assets/script/jquery.fancybox-buttons.js"></script>
+				<script type="text/javascript" src="../../assets/script/jquery.carouFredSel.packed.js"></script>
+				<script type="text/javascript" src="../../assets/script/jquery.responsiveElement.js"></script>
+				<script type="text/javascript" src="../../assets/script/jquery.touchSwipe.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/DateTimePicker.min.js"></script>
+				<script type="text/javascript" src="http://maps.google.com/maps/api/js"></script>
+
 				<!-- Revolution Slider files -->
-				<script type="text/javascript" src="../../script/revolution/jquery.themepunch.revolution.min.js"></script>
-				<script type="text/javascript" src="../../script/revolution/jquery.themepunch.tools.min.js"></script>
-				<script type="text/javascript" src="../../script/revolution/extensions/revolution.extension.actions.min.js"></script>
-				<script type="text/javascript" src="../../script/revolution/extensions/revolution.extension.carousel.min.js"></script>
-				<script type="text/javascript" src="../../script/revolution/extensions/revolution.extension.kenburn.min.js"></script>
-				<script type="text/javascript" src="../../script/revolution/extensions/revolution.extension.layeranimation.min.js"></script>
-				<script type="text/javascript" src="../../script/revolution/extensions/revolution.extension.migration.min.js"></script>
-				<script type="text/javascript" src="../../script/revolution/extensions/revolution.extension.navigation.min.js"></script>
-				<script type="text/javascript" src="../../script/revolution/extensions/revolution.extension.parallax.min.js"></script>
-				<script type="text/javascript" src="../../script/revolution/extensions/revolution.extension.slideanims.min.js"></script>
-				<script type="text/javascript" src="../../script/revolution/extensions/revolution.extension.video.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/revolution/jquery.themepunch.revolution.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/revolution/jquery.themepunch.tools.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/revolution/extensions/revolution.extension.actions.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/revolution/extensions/revolution.extension.carousel.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/revolution/extensions/revolution.extension.kenburn.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/revolution/extensions/revolution.extension.layeranimation.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/revolution/extensions/revolution.extension.migration.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/revolution/extensions/revolution.extension.navigation.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/revolution/extensions/revolution.extension.parallax.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/revolution/extensions/revolution.extension.slideanims.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/revolution/extensions/revolution.extension.video.min.js"></script>
 
 				<!-- Plugins files -->
-				<script type="text/javascript" src="../../plugin/booking/jquery.booking.js"></script>
-				
+				<script type="text/javascript" src="../../assets/plugin/booking/jquery.booking.js"></script>
+
 				<!-- Components files -->
-				<script type="text/javascript" src="../../script/template/jquery.template.tab.js"></script>
-				<script type="text/javascript" src="../../script/template/jquery.template.image.js"></script>
-				<script type="text/javascript" src="../../script/template/jquery.template.helper.js"></script>
-				<script type="text/javascript" src="../../script/template/jquery.template.header.js"></script>
-				<script type="text/javascript" src="../../script/template/jquery.template.counter.js"></script>
-				<script type="text/javascript" src="../../script/template/jquery.template.gallery.js"></script>
-				<script type="text/javascript" src="../../script/template/jquery.template.goToTop.js"></script>
-				<script type="text/javascript" src="../../script/template/jquery.template.fancybox.js"></script>
-				<script type="text/javascript" src="../../script/template/jquery.template.moreLess.js"></script>
-				<script type="text/javascript" src="../../script/template/jquery.template.googleMap.js"></script>
-				<script type="text/javascript" src="../../script/template/jquery.template.accordion.js"></script>
-				<script type="text/javascript" src="../../script/template/jquery.template.searchForm.js"></script>
-				<script type="text/javascript" src="../../script/template/jquery.template.testimonial.js"></script>
-				<script type="text/javascript" src="../../script/public.js"></script>
+				<script type="text/javascript" src="../../assets/script/template/jquery.template.tab.js"></script>
+				<script type="text/javascript" src="../../assets/script/template/jquery.template.image.js"></script>
+				<script type="text/javascript" src="../../assets/script/template/jquery.template.helper.js"></script>
+				<script type="text/javascript" src="../../assets/script/template/jquery.template.header.js"></script>
+				<script type="text/javascript" src="../../assets/script/template/jquery.template.counter.js"></script>
+				<script type="text/javascript" src="../../assets/script/template/jquery.template.gallery.js"></script>
+				<script type="text/javascript" src="../../assets/script/template/jquery.template.goToTop.js"></script>
+				<script type="text/javascript" src="../../assets/script/template/jquery.template.fancybox.js"></script>
+				<script type="text/javascript" src="../../assets/script/template/jquery.template.moreLess.js"></script>
+				<script type="text/javascript" src="../../assets/script/template/jquery.template.googleMap.js"></script>
+				<script type="text/javascript" src="../../assets/script/template/jquery.template.accordion.js"></script>
+				<script type="text/javascript" src="../../assets/script/template/jquery.template.searchForm.js"></script>
+				<script type="text/javascript" src="../../assets/script/template/jquery.template.testimonial.js"></script>
+				<script type="text/javascript" src="../../assets/script/public.js"></script>
 
 			</body>
-			
+
 		</html>
