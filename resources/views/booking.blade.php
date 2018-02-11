@@ -28,7 +28,7 @@
 				<link rel="stylesheet" type="text/css" href="../../assets/style/base.css"/>
 				<link rel="stylesheet" type="text/css" href="../../assets/style/responsive.css"/>
 
-				<script type="text/javascript" src="script/jquery.min.js"></script>
+				<script type="text/javascript" src="../../assets/script/jquery.min.js"></script>
 
 			</head>
 
@@ -126,7 +126,8 @@
 					<div class="template-component-booking template-section template-main" id="template-booking">
 
 						<!-- Booking form -->
-						<form>
+						<form action="{{ route('addorder') }}"  method="POST" id="form2">
+                        {{ csrf_field() }}
 
 							<ul>
 
@@ -1033,8 +1034,9 @@
 										<!-- Text + submit button -->
 										<div class="template-align-center template-clear-fix template-margin-top-2">
 											<p class="template-padding-reset template-margin-bottom-2">We will confirm your appointment with you by phone or e-mail within 24 hours of receiving your request.</p>
-											<input type="submit" value="Confirm Booking" class="template-component-button" name="booking-form-submit" id="booking-form-submit"/>
 											<input type="hidden" value="" name="booking-form-data" id="booking-form-data"/>
+											<input action="{{ route('addorder') }}" type="submit" value="Confirm Booking" class="template-component-button" name="booking-form-submit" id="booking-form-submit"/> 
+											
 										</div>
 
 									</div>
@@ -1071,7 +1073,7 @@
 								<div class="template-layout-column-left">
 									<h6>About</h6>
 									<p>Autospan Hand Wash is an eco-friendly hand car wash and detailing service based in Portland.</p>
-									<img src="media/image/logo.png" alt="" class="template-logo" />
+									<img src="../../assert/media/image/logo.png" alt="" class="template-logo" />
 								</div>
 
 								<!-- Center left column -->

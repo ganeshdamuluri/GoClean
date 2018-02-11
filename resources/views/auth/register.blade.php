@@ -39,7 +39,33 @@
                             </div>
                         </div>
 
-                        <div class="form-group{{ $errors->has('password') ? ' has-error' : '' }}">
+                        <div class="form-group{{ $errors->has('address') ? ' has-error' : '' }}">
+                            <label for="address" class="col-md-4 control-label">Address</label>
+
+                            <div class="col-md-6">
+                                <input id="address" type="text" class="form-control" name="address" required>
+
+                                @if ($errors->has('address'))
+                                    <span class="help-block">
+                                        <strong>{{ $errors->first('address') }}</strong>
+                                    </span>
+                                @endif
+                            </div>
+                        </div>
+						<div class="form-group{{ $errors->has('mobile') ? ' has-error' : '' }}">
+                            <label for="mobile" class="col-md-4 control-label">Mobile.No</label>
+
+                            <div class="col-md-6">
+                                <input id="mobile" type="text" class="form-control" name="mobile" required>
+
+                                @if ($errors->has('mobile'))
+                                    <span class="help-block">
+                                        <strong>{{ $errors->first('mobile') }}</strong>
+                                    </span>
+                                @endif
+                            </div>
+                        </div>
+						<div class="form-group{{ $errors->has('password') ? ' has-error' : '' }}">
                             <label for="password" class="col-md-4 control-label">Password</label>
 
                             <div class="col-md-6">
@@ -52,8 +78,8 @@
                                 @endif
                             </div>
                         </div>
-
-                        <div class="form-group">
+						
+						<div class="form-group">
                             <label for="password-confirm" class="col-md-4 control-label">Confirm Password</label>
 
                             <div class="col-md-6">

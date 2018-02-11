@@ -18,9 +18,12 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return view('about');
 });
-Route::get('/booking', function () {
-    return view('booking');
-});
+//Route::get('/booking', function () {
+//    return view('booking');
+//});
+Route::get('/booking', 'BookingController@order')->name('booking');
+Route::post('/booking', 'BookingController@addorder')->name('addorder');
+
 Route::get('/services', function () {
     return view('services');
 });

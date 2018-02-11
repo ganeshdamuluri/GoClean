@@ -864,7 +864,7 @@
 
 													<!-- Button -->
 													<div class="template-component-button-box">
-														<a href="book-your-wash.html" class="template-component-button">Book Now</a>
+														<a href="" class="template-component-button">Book Now</a>
 													</div>
 
 												</li>
@@ -1435,7 +1435,7 @@
 									<li>
 										<a href="single-post-right-sidebar.html">
 											<span>How to choose car detailing company</span>
-											<span>April 14, 2015</span>
+											<span>April 14, 20f</span>
 										</a>
 									</li>
 									<li>
