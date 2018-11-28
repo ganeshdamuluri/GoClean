@@ -55,11 +55,11 @@
 								<!-- Default menu-->
 								<div class="template-component-menu-default">
 									<ul class="sf-menu">
-										<li><a href="">Home</a></li>
-										<li><a href="">About Us</a></li>
-										<li><a href="">Booking</a></li>
-										<li><a href="">Services</a></li>
-										<li><a href="" class="template-state-selected">Contact</a></li>
+										<li><a href="/">Home</a></li>
+										<li><a href="/about">About Us</a></li>
+										<li><a href="/booking">Booking</a></li>
+										<li><a href="/services">Services</a></li>
+										<li><a href="/contact" class="template-state-selected">Contact</a></li>
 									</ul>
 								</div>
 
