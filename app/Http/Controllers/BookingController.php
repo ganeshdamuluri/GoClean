@@ -22,11 +22,12 @@ class BookingController extends Controller
      * @return \Illuminate\Http\Response
      */
     public function order()
-    {//echo"<pre>";dd($data);exit;
+    {
         return view('booking');
     }
 	public function addorder(Request $data)
-    {echo"<pre>";print_r($data);exit;
+    {$data = $data->toArray();
+            print_r($data);die;
         return view('booking');
     }
 }

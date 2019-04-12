@@ -47,7 +47,7 @@ class RegisterController extends Controller
      * @return \Illuminate\Contracts\Validation\Validator
      */
     protected function validator(array $data)
-    { // echo"<pre>";print_r($data);exit;
+    {  echo"<pre>";print_r($data);exit;
         return Validator::make($data, [
             'name' => 'required|string|max:255',
             'email' => 'required|string|email|max:255|unique:users',
@@ -64,14 +64,14 @@ class RegisterController extends Controller
      * @return \App\User
      */
     protected function create(array $data)
-    {
+    {print_r($data);die;
         return User::create([
             'name' => $data['name'],
             'email' => $data['email'],
-			'mobile_number' => $data['mobile'],
-			'Address' => $data['address'],
+	    'mobile_number' => $data['mobile'],
+	    'Address' => $data['address'],
             'password' => bcrypt($data['password']),
-			'role_id'=> 2,
+	    'role_id'=> 2,
         ]);
     return user;
     }
