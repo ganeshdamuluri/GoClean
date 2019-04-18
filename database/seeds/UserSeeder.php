@@ -15,11 +15,11 @@ class UsersSeeder extends Seeder
         $data = [
             [
                 'name'             => 'admin',
+                'email'          => 'ganeshravitej@gmail.com',
                 'role_id'         => '1',
-                'email'          => 'email@email.com',
-                'mobile_number'          => '123456',
-                'Address'             => 'kepler@email.com',
-                'password'    => 1,
+                'mobile_number'          => '1234512345',
+                'Address'             => 'hyd',
+                'password'    => 'admin@123',
             ],
         ];
 
@@ -30,7 +30,6 @@ class UsersSeeder extends Seeder
             $user->deployment()->associate($deployment);
             $user->credential()->associate($credential);
             $user->save();
-            $user->roles()->sync([$role->id]);
         }
     }
 }
