@@ -562,7 +562,7 @@
 
 							<!-- Copyright -->
 							<div class="template-footer-bottom-copyright">
-								By <a href="http://quanticalabs.com" target="_blank">QuanticaLabs</a> &copy; 2016 <a href="http://themeforest.net/user/QuanticaLabs/portfolio?ref=quanticalabs" target="_blank">Auto Spa Template</a>
+								GoClean &copy; 2019 @version
 							</div>
 
 						</div>
