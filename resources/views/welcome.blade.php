@@ -1625,7 +1625,7 @@
 
 							<!-- Copyright -->
 							<div class="template-footer-bottom-copyright">
-								GoClean &copy; 2019 @version
+								GoClean &copy; 2019 
 							</div>
 
 						</div>
