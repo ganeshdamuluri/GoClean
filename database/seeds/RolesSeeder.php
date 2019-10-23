@@ -17,6 +17,16 @@ class RolessSeeder extends Seeder {
                 'name' => 'admin',
                 'description' => 'admin',
             ],
+            [
+                'id' => '2',
+                'name' => 'business',
+                'description' => 'business',
+            ],
+            [
+                'id' => '3',
+                'name' => 'user',
+                'description' => 'user',
+            ]
         ];
 
         DB::statement('SET FOREIGN_KEY_CHECKS = 0');
