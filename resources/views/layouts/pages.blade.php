@@ -47,7 +47,7 @@
 
         <!-- Header -->
         <div class="template-header">
-
+            <div class="template-header template-header-background template-header-background-1">
             <!-- Top header -->
             <div class="template-header-top">
 
