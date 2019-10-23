@@ -19,13 +19,12 @@ class RolessSeeder extends Seeder {
             ],
         ];
 
-
-
+        DB::statement('SET FOREIGN_KEY_CHECKS = 0');
+        DB::table('users')->truncate();
+        DB::statement('SET FOREIGN_KEY_CHECKS = 1');
         foreach ($data as $key => $item) {
-            $user = Roles::firstOrNew($item);
-            $user->deployment()->associate($deployment);
-            $user->credential()->associate($credential);
-            $user->save();
+            $role = Roles::firstOrNew($item);
+            $role->save();
         }
     }
 

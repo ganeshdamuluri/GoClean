@@ -57,9 +57,9 @@
 									<ul class="sf-menu">
 										<li><a href="/" class="template-state-selected">Home</a></li>
 										<li><a href="/about">About Us</a></li>
-										<li><a href="/booking">Booking</a></li>
 										<li><a href="/services">Services</a></li>
 										<li><a href="/contact">Contact</a></li>
+                                                                                <li><a href="{{ route('login') }}">Login</a></li>
 									</ul>
 								</div>
 
@@ -70,11 +70,11 @@
 								<div class="template-component-menu-responsive">
 									<ul class="flexnav">
 										<li><a href="#"><span class="touch-button template-icon-meta-arrow-large-tb template-component-menu-button-close"></span>&nbsp;</a></li>
-										<li><a href="index.html" class="template-state-selected">Home</a></li>
-										<li><a href="#.html">About Us</a></li>
-										<li><a href="book-your-wash.html">Booking</a></li>
-										<li><a href="#.html">Services</a></li>
-										<li><a href="#.html">Contact</a></li>
+										<li><a href="/" class="template-state-selected">Home</a></li>
+										<li><a href="/about">About Us</a></li>
+										<li><a href="/services">Services</a></li>
+										<li><a href="/contact">Contact</a></li>
+                                                                                <li><a href="{{ route('login') }}">Login</a></li>
 									</ul>
 								</div>
 

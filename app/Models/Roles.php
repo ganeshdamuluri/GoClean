@@ -4,15 +4,8 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Roles extends models
-{
-    use Notifiable;
+class Roles extends Model {
 
-    /**
-     * The attributes that are mass assignable.
-     *
-     * @var array
-     */
-	protected $table= user_roles;
-	
-    }
+    protected $table = 'user_roles';
+
+}
