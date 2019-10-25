@@ -3,23 +3,21 @@
 use App\Models\User;
 use Illuminate\Database\Seeder;
 
-class UsersSeeder extends Seeder
-{
+class UsersSeeder extends Seeder {
+
     /**
      * Run the database seeds.
      *
      * @return void
      */
-    public function run()
-    {
+    public function run() {
         $data = [
             0 => [
-                'name'             => 'admin',
-                'email'          => 'ganeshravitej@gmail.com',
-                'role_id'         => '1',
-                'mobile_number'   => '1234512345',
-                'Address'             => 'hyd',
-                'password'    => 'admin@123',
+                'name' => 'admin',
+                'email' => 'ganeshravitej@gmail.com',
+                'role_id' => '1',
+                'mobile_number' => '1234512345',
+                'password' => 'admin@123',
             ],
         ];
 
@@ -39,4 +37,5 @@ class UsersSeeder extends Seeder
         }
         print_r($value);
     }
+
 }
