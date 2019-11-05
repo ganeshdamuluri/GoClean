@@ -11,7 +11,7 @@
 
         <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
-        
+
         <meta name="csrf-token" content="{{ csrf_token() }}">
 
         <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lato:400,100,100italic,300,300italic,400italic,700italic,700,900&amp;subset=latin,latin-ext">
@@ -36,6 +36,18 @@
                 line-height: 0;
                 background-color: orange;
                 margin-top: -2px;
+            }
+            .googlebutton-signon {
+                display: block;
+                padding-top:50px;
+                padding-bottom:30px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+            .template-width{
+                @media  screen and (max-width: 768px) {
+                    width:50% !important;
+                }
             }
         </style>
 
@@ -92,10 +104,10 @@
 
                     </nav>
                     <script type="text/javascript">
-                        jQuery(document).ready(function ($)
-                        {
-                            $('.template-header-top').templateHeader();
-                        });
+jQuery(document).ready(function ($)
+{
+    $('.template-header-top').templateHeader();
+});
                     </script>
                 </div>
 
@@ -130,8 +142,8 @@
             </div>
 
         </div>
-@yield('content')
-<!-- Footer -->
+        @yield('content')
+        <!-- Footer -->
         <div class="template-footer">
 
             <div class="template-main">
